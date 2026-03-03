@@ -2,4 +2,4 @@
 
 
 this class demonstration
-hello welcome to 
+hello welcome to  using git command
